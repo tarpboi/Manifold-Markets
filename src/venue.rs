@@ -9,7 +9,7 @@ pub const NAME: &str = "Manifold Markets";
 /// Venue category.
 pub const VENUE_TYPE: &str = "Play-money";
 
-/// Strategies this venue runs on the shared engine.
+/// Strategies mapped to this venue on the shared engine.
 pub const STRATEGIES: &[&str] = &[
     "Directional Arbitrage",
 ];
