@@ -19,7 +19,7 @@ These are the strategies mapped to Manifold Markets. They run here once its adap
 
 | Strategy |
 |----------|
-| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
+| 🎯 **Directional Arbitrage** — rest Yes + No bids under $1, tilted toward the side with more edge |
 
 > Want a strategy not listed here on Manifold Markets? Adapter coverage is demand-driven — [ask](https://t.me/tarpboi).
 
